@@ -23,3 +23,6 @@ Jenkins Setup → GitHub Integration with Jenkins → Build and Push Docker Imag
 - **Build and Push Docker Image** → Builds the Docker image and pushes it to Docker Hub.
 - **ArgoCD Setup** → Syncs Kubernetes deployment from GitHub using GitOps.
 - **WebHooks GitHub** → Triggers pipeline automatically when code is pushed.
+
+
+<img width="1600" height="877" alt="Study-Buddy-LLMOps- Flow-Diagram" src="https://github.com/user-attachments/assets/4420e1d1-9d5d-419b-ab2f-1c5f105d4d54" />
